@@ -171,7 +171,3 @@ For each process:
   - P1: [7, 7, 7]
 ```
 
-
-## License
-
-The CPU Scheduling Simulator is licensed under the [MIT License](LICENSE.md). See the LICENSE file for more details.
